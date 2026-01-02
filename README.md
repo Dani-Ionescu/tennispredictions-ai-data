@@ -75,5 +75,5 @@ If you use or reference this repository, please credit **TennisPredictions.ai**.
 
 ---
 
-### 📈 Keywords (for SEO)
+### 📈 Keywords
 *tennis analytics data, tennis prediction dataset, sports analytics repository, tennis match statistics, predictive tennis models, open tennis data, tennis performance analysis, match analytics platform, TennisPredictions.ai*
